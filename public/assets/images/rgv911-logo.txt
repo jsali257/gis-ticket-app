@@ -1,0 +1,2 @@
+This is a placeholder for the RGV911 logo image. 
+The actual image data would be saved as a PNG or JPG file.
